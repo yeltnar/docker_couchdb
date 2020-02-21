@@ -1,0 +1,6 @@
+FROM couchdb:latest
+
+EXPOSE 4369
+EXPOSE 5984
+EXPOSE 9100
+
